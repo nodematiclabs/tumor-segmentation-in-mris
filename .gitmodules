@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/umairrkhn/Brain-MRI-Flask
+[submodule "function"]
+	path = function
+	url = https://github.com/umairrkhn/brain-mri-cloud-function
